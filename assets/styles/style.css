@@ -1,0 +1,28 @@
+html{
+  scroll-behavior: smooth;
+}
+p{
+  font-size: 0.8em;
+  color: rgb(21, 17, 26);
+  text-indent: 20px;
+}
+.article{
+  font-size: 30px;
+}
+#biography{
+  font-weight: bold;
+}
+#legacy{
+  font-style: italic;
+}
+#music{
+  font-stretch: wider;
+  text-decoration: underline;
+}
+#personal{
+  text-align: end;
+}
+.hig{
+  font-size: 50px;
+  color: red;
+}
